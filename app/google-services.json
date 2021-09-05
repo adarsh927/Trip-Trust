@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928140919216",
+    "project_id": "trip-trust-b6a56",
+    "storage_bucket": "trip-trust-b6a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928140919216:android:2b2dba19986dd35dc0d675",
+        "android_client_info": {
+          "package_name": "com.ancreators.triptrust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928140919216-7gan8gbk0a864t7rmjcfkqvbs5jvrrkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kLoia5dTJy1eDB5KpNQCNBd7KR2SYy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928140919216-7gan8gbk0a864t7rmjcfkqvbs5jvrrkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

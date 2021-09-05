@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trip Trust</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="team">Team</string>
+    <string name="logout">Logout</string>
+</resources>
