@@ -9,7 +9,8 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.TripTrust">
-        <activity android:name=".Explore"></activity>
+        <activity android:name=".TeamActivity"></activity>
+        <activity android:name=".Explore" />
         <activity android:name=".Login" />
         <activity android:name=".Register" />
         <activity android:name=".SplashActivity">

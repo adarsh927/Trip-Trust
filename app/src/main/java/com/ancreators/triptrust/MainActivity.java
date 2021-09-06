@@ -51,10 +51,17 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }
 
-
+        //--Intent to Explore Activity--//
     public void exPlore(View view) {
         Intent intent = new Intent(this,Explore.class);
         startActivity(intent);
 
+    }
+
+
+        //-- Intent to Team Activity --//
+    public void teamBtn(View view) {
+        Intent intent1 = new Intent(this, TeamActivity.class);
+        startActivity(intent1);
     }
 }
