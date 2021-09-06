@@ -1,7 +1,6 @@
 package com.ancreators.triptrust;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class TeamActivity extends AppCompatActivity {
