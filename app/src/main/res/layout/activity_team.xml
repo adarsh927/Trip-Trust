@@ -5,6 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/team"
     tools:context=".TeamActivity">
 
     <ScrollView
@@ -25,6 +26,7 @@
                 android:fontFamily="@font/almendra_sc"
                 android:text="Our Team"
                 android:textAlignment="center"
+                android:textColor="#FFFFFF"
                 android:textSize="36sp" />
 
             <de.hdodenhof.circleimageview.CircleImageView
@@ -43,6 +45,7 @@
                 android:fontFamily="@font/aldrich"
                 android:text="Adarsh Nayak"
                 android:textAlignment="center"
+                android:textColor="#FFFFFF"
                 android:textSize="30sp" />
 
             <TextView
@@ -53,6 +56,7 @@
                 android:fontFamily="cursive"
                 android:text="Designation:"
                 android:textAlignment="center"
+                android:textColor="#A30C0C"
                 android:textSize="30sp" />
 
             <TextView
@@ -81,6 +85,7 @@
                 android:fontFamily="@font/aldrich"
                 android:text="Rahul Kalambusukar"
                 android:textAlignment="center"
+                android:textColor="#FFFFFF"
                 android:textSize="30sp" />
 
             <TextView
@@ -91,6 +96,7 @@
                 android:fontFamily="cursive"
                 android:text="Designation:"
                 android:textAlignment="center"
+                android:textColor="#FFFFFF"
                 android:textSize="30sp" />
 
             <TextView
@@ -101,6 +107,7 @@
                 android:fontFamily="@font/aldrich"
                 android:text="Content Writer"
                 android:textAlignment="center"
+                android:textColor="#FFFFFF"
                 android:textSize="30sp" />
 
         </LinearLayout>
